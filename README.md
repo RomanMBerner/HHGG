@@ -5,7 +5,9 @@ Hitchhikers Guide to the Galaxy by Douglas Adams.
 Run the game:
 --------------
 Need to install frotz: sudo apt-get install frotz
+
 To run the game: frotz hhgg.z3
+
 hhgg.qzl is the default savegame, which can be restored using: RESTORE
 
 Some commands:
